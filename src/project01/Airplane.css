@@ -1,0 +1,36 @@
+.body_container{
+    margin:0;
+    padding: 0;
+    position: relative;
+    background-image: url("./skyairplane.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position-x: 100%;
+ }  
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.middle{
+    padding-top: 50px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.menu>li{
+    list-style: none;
+    padding: 0 1.9vmax;
+}
+.paragraph{
+   text-align:left;
+   padding-right: 600px;
+   padding-top: 10px;
+}
+.footer{
+    padding-top:115px;
+    list-style: none;
+    display: flex;
+    gap:15px;
+}

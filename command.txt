@@ -1,0 +1,12 @@
+nua project create kariba pai : npx create-react-app <folder_name (jadi same folder re karibaku chauthibu . (dot lekhibu) kintu folder name sabu small rahiba no special chartcter except _()underscore)>
+start kariba pai :npm start
+
+//jaha coding karibu app.js re karibu src bhitare sabu nua file create karibu course jau karibu se kahidaba jadi doubt hela apun a6i:)
+
+//dekh react re menche sabu package tate upload karibaku hele ist build karibaku padiba amti re aei folder ta 300mb bhali haba build kale 1.5mb bhali heijiba
+//build kariba pai --npm run build//build mane se html,css,js ku convert karidaba
+
+//abe build heigala build folder jau create hela seita upload kara haba abe tu nije kara mu dekhibi
+ae folder name myapp ta
+//hmm desktop re react Tuto bhitare a6i
+uk
