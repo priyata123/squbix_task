@@ -5,7 +5,8 @@
     background-image: url("./skyairplane.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-   background-position-x: 100%;
+   /* background-position-x: 100%;
+   background-position-y: 60%; */
  }  
 .header{
     display: flex;
@@ -29,8 +30,8 @@
    padding-top: 10px;
 }
 .footer{
-    padding-top:115px;
-    list-style: none;
+    padding-top:166px;
+    list-style:none;
     display: flex;
     gap:15px;
 }
